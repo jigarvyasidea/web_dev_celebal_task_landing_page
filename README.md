@@ -3,6 +3,15 @@
 
 ![download](https://github.com/jigarvyasidea/web_dev_celebal_task_landing_page/assets/80967728/c937c93c-200c-4861-9eb5-5cc150366f4d)
 
+![image](https://github.com/jigarvyasidea/web_dev_celebal_task_landing_page/assets/80967728/9e1a1e06-66b2-4298-997b-a08ce5b63825)
+
+![image](https://github.com/jigarvyasidea/web_dev_celebal_task_landing_page/assets/80967728/d44c42fd-ad97-4b63-86e7-3fdfdc077ec3)
+
+![image](https://github.com/jigarvyasidea/web_dev_celebal_task_landing_page/assets/80967728/21b232bc-7f23-4129-a849-ea7088ff6eae)
+
+![image](https://github.com/jigarvyasidea/web_dev_celebal_task_landing_page/assets/80967728/5c673bd3-9ce4-4f1b-b3ff-0e6376a7a068)
+
+
 
 This repository contains the solution for Task 1 of the Celebal Technology Internship - Building a Landing Page using React.js. The task involves creating a landing page with React.js, showcasing your front-end development skills.
 
@@ -53,6 +62,8 @@ npm start
 ## Project Structure
 
 The project structure is organized as follows:
+
+
 
 
 Certainly! Here's an example of a README file written in Markdown (.md) format for your GitHub repository:
