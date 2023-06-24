@@ -1,7 +1,8 @@
 
 # Celebal Technology Internship - Landing Page Task 1
 
-![Celebal Logo](https://www.celebaltech.com/wp-content/uploads/2021/06/celebal.png)
+![download](https://github.com/jigarvyasidea/web_dev_celebal_task_landing_page/assets/80967728/c937c93c-200c-4861-9eb5-5cc150366f4d)
+
 
 This repository contains the solution for Task 1 of the Celebal Technology Internship - Building a Landing Page using React.js. The task involves creating a landing page with React.js, showcasing your front-end development skills.
 
